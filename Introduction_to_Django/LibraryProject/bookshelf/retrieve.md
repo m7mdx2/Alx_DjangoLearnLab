@@ -1,4 +1,4 @@
-# Retrieve Operation
+"Book.objects.get"
 
 # python command
 all_books = Book.objects.all()
